@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "nev": "iPhone 17 Pro Max",
+    "gyarto": "Apple",
+    "ar": 649990,
+    "memoria": 12,
+    "tarhely": 256,
+    "kijelzo": 6.9,
+    "operaciosRendszer": "iOS"
+  },
+  {
+    "id": 2,
+    "nev": "Galaxy S25 Ultra",
+    "gyarto": "Samsung",
+    "ar": 529990,
+    "memoria": 12,
+    "tarhely": 256,
+    "kijelzo": 6.9,
+    "operaciosRendszer": "Android"
+  },
+  {
+    "id": 3,
+    "nev": "Xiaomi 15",
+    "gyarto": "Xiaomi",
+    "ar": 329990,
+    "memoria": 12,
+    "tarhely": 512,
+    "kijelzo": 6.36,
+    "operaciosRendszer": "Android"
+  },
+  {
+    "id": 4,
+    "nev": "Google Pixel 10 Pro",
+    "gyarto": "Google",
+    "ar": 449990,
+    "memoria": 16,
+    "tarhely": 256,
+    "kijelzo": 6.3,
+    "operaciosRendszer": "Android"
+  },
+  {
+    "id": 5,
+    "nev": "OnePlus 13",
+    "gyarto": "OnePlus",
+    "ar": 389990,
+    "memoria": 16,
+    "tarhely": 512,
+    "kijelzo": 6.82,
+    "operaciosRendszer": "Android"
+  },
+  {
+    "id": 6,
+    "nev": "iPhone 16",
+    "gyarto": "Apple",
+    "ar": 329990,
+    "memoria": 8,
+    "tarhely": 128,
+    "kijelzo": 6.1,
+    "operaciosRendszer": "iOS"
+  },
+  {
+    "id": 7,
+    "nev": "Samsung Galaxy A56",
+    "gyarto": "Samsung",
+    "ar": 159990,
+    "memoria": 8,
+    "tarhely": 256,
+    "kijelzo": 6.7,
+    "operaciosRendszer": "Android"
+  },
+  {
+    "id": 8,
+    "nev": "Xiaomi Redmi Note 14 Pro",
+    "gyarto": "Xiaomi",
+    "ar": 119990,
+    "memoria": 8,
+    "tarhely": 256,
+    "kijelzo": 6.67,
+    "operaciosRendszer": "Android"
+  },
+  {
+    "id": 9,
+    "nev": "Motorola Edge 60 Pro",
+    "gyarto": "Motorola",
+    "ar": 219990,
+    "memoria": 12,
+    "tarhely": 512,
+    "kijelzo": 6.7,
+    "operaciosRendszer": "Android"
+  },
+  {
+    "id": 10,
+    "nev": "Nothing Phone (3)",
+    "gyarto": "Nothing",
+    "ar": 299990,
+    "memoria": 12,
+    "tarhely": 256,
+    "kijelzo": 6.67,
+    "operaciosRendszer": "Android"
+  }
+]
